@@ -1,7 +1,7 @@
 # Meftah_Dakiri_Anouani_Data_Viz_Project
 
 
- ![alt text](https://github.com/SimoMef/Meftah_Dakiri_Anouani_Data_Viz_Project/blob/Meftah_Dakiri_Anouani_Data_Viz_Project/tableau1.jpg?raw=true)
+ ![alt text](https://github.com/SimoMef/Meftah_Dakiri_Anouani_Data_Viz_Project/blob/main/tableau1.jpg?raw=true)
  Ce tableau de bord contient 5 graphes et représente les différents facteurs qui peuvent influent sur l’espérance de vie d’une manière générale.
 •	Le premier graphe représente une comparaison entre la prévalence de la minceur chez les enfants et les adolescents de 10 à 19 ans (%) et la prévalence de la minceur chez les enfants de 5 à 9 ans (%), et en générale nous remarquons que la première catégorie a un pourcentage de « Thinness » plus élevé que la deuxième.
 •	Le deuxième graphe représente une comparaison entre le nombre des décès chez les adultes, les bébés, et aussi les enfants de moins de 5ans, et d’après notre graphe nous voyons que les décès chez les adultes sont très élevés.
