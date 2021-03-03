@@ -32,7 +32,7 @@ body {
 	 font-family:"arial", verdana Helvetica, sans-serif;
 }
 .wrap{
-	width: 80%;
+	width: 100%;
 	margin: 0 auto;
 }
 /*menu-bg*/
@@ -263,14 +263,11 @@ body {
 	box-shadow: 0px 0px 6px #999;
 }
 .content{
-	width:74.33%;
+	width:100%;
 	float: left;
 	margin-right: 3.33%;
 }
-.sidebar{
-	float: right;
-	width:21.33%;
-}
+
 /*  GRID OF THREE   ============================================================================= */
 .section {
 	clear: both;
@@ -410,34 +407,7 @@ body {
 	-o-transition: background .2s ease;
 	transition: background .2s ease;
 }
-/*sidebar*/
-.sidebar h2{
-	margin:3% 0;
-	padding: 1.5%;
-	text-align: left;
-	font-size: 1.8em;
-	color: #10696E;
-	font-family: 'Julius Sans One', sans-serif;
-}
-.sidebar-list ul{
-	margin-top: 4%;
-}
-.sidebar-list ul li{
-	display: inherit;
-	line-height: 2.0em;
-}
-.sidebar-list ul li a{
-	padding:4px;
-	display:block;
-	font-size:0.9em;
-	color:#555;
-	text-transform:capitalize;
-	border-bottom: 1px solid #ededed;
-}
-.sidebar-list ul li a:hover{
-	color: #10696E;
-	background: rgb(235, 235, 235);
-}
+
 /*footer-style*/
 /*  GRID OF Four   ============================================================================= */
 .section {
